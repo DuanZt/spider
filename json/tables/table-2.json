@@ -1,1 +1,53 @@
-{"attrs":["Type number","Package version","Package name","Product status","number of diodes","IF(AV) [max]","IO(AV) [max]","Tj [max]","VRRM [max]","IR [max] @ Tj = 25 °C","VF [max] @ IF = 10 A; Tj = 25 °C","Order Sample","Datasheet"],"values":[["WNS20H100C","TO-220E","TO-220E","Production","2","10","20","150","100","50","0.75","",""],["WNS20H100CB","TO-263E","TO-263E","Production","2","10","20","150","100","50","0.75","",""],["WNS20S100C","TO-220E","TO-220E","Production","2","10","20","150","100","50","0.95","",""],["WNS20S100CB","TO-263E","TO-263E","Production","2","10","20","150","100","50","0.95","",""],["WNS30H100C","TO-220E","TO-200E","Production","2","15","30","150","100","50","0.63","",""],["WNS30H100CB","TO-263E","TO-263E","Production","2","15","30","150","100","50","0.63","",""],["WNS40H100C","TO-220E","TO-220E","Production","2","20","40","150","100","50","0.59","",""],["WNS40H100CB","TO-263E","TO-263E","Production","2","20","40","150","100","50","0.59","",""]],"attr_values":[{"name":"Type number","values":["WNS20H100C","WNS20H100CB","WNS20S100C","WNS20S100CB","WNS30H100C","WNS30H100CB","WNS40H100C","WNS40H100CB"]},{"name":"Package version","values":["TO-220E","TO-263E"]},{"name":"Package name","values":["TO-220E","TO-263E","TO-200E"]},{"name":"Product status","values":["Production"]},{"name":"number of diodes","values":["2"]},{"name":"IF(AV) [max]","values":["10","15","20"]},{"name":"IO(AV) [max]","values":["20","30","40"]},{"name":"Tj [max]","values":["150"]},{"name":"VRRM [max]","values":["100"]},{"name":"IR [max] @ Tj = 25 °C","values":["50"]},{"name":"VF [max] @ IF = 10 A; Tj = 25 °C","values":["0.75","0.95","0.63","0.59"]},{"name":"Order Sample","values":[]},{"name":"Datasheet","values":[]}]}
+{
+  "attrs": ["Type number", "Package version", "Package name", "Product status", "number of diodes", "IF(AV) [max]", "IO(AV) [max]", "Tj [max]", "VRRM [max]", "IR [max] @ Tj = 25 °C", "VF [max] @ IF = 10 A; Tj = 25 °C", "Order Sample", "Datasheet"],
+  "values": [
+    ["WNS20H100C", "TO-220E", "TO-220E", "Production", "2", "10", "20", "150", "100", "50", "0.75", "order-sample.aspx?typenumber=WNS20H100C", "/ween/sites/default/files/page/WNS20H100C.pdf"],
+    ["WNS20H100CB", "TO-263E", "TO-263E", "Production", "2", "10", "20", "150", "100", "50", "0.75", "order-sample.aspx?typenumber=WNS20H100CB", "/ween/sites/default/files/page/WNS20H100CB.pdf"],
+    ["WNS20S100C", "TO-220E", "TO-220E", "Production", "2", "10", "20", "150", "100", "50", "0.95", "order-sample.aspx?typenumber=WNS20S100C", "/ween/sites/default/files/page/WNS20S100C.pdf"],
+    ["WNS20S100CB", "TO-263E", "TO-263E", "Production", "2", "10", "20", "150", "100", "50", "0.95", "order-sample.aspx?typenumber=WNS20S100CB", "/ween/sites/default/files/page/WNS20S100CB.pdf"],
+    ["WNS30H100C", "TO-220E", "TO-200E", "Production", "2", "15", "30", "150", "100", "50", "0.63", "order-sample.aspx?typenumber=WNS30H100C", "/ween/sites/default/files/page/WNS30H100C.pdf"],
+    ["WNS30H100CB", "TO-263E", "TO-263E", "Production", "2", "15", "30", "150", "100", "50", "0.63", "order-sample.aspx?typenumber=WNS30H100CB", "/ween/sites/default/files/page/WNS30H100CB.pdf"],
+    ["WNS40H100C", "TO-220E", "TO-220E", "Production", "2", "20", "40", "150", "100", "50", "0.59", "order-sample.aspx?typenumber=WNS40H100C", "/ween/sites/default/files/page/WNS40H100C.pdf"],
+    ["WNS40H100CB", "TO-263E", "TO-263E", "Production", "2", "20", "40", "150", "100", "50", "0.59", "order-sample.aspx?typenumber=WNS40H100CB", "/ween/sites/default/files/page/WNS40H100CB.pdf"]
+  ],
+  "attr_values": [{
+    "name": "Type number",
+    "values": ["WNS20H100C", "WNS20H100CB", "WNS20S100C", "WNS20S100CB", "WNS30H100C", "WNS30H100CB", "WNS40H100C", "WNS40H100CB"]
+  }, {
+    "name": "Package version",
+    "values": ["TO-220E", "TO-263E"]
+  }, {
+    "name": "Package name",
+    "values": ["TO-220E", "TO-263E", "TO-200E"]
+  }, {
+    "name": "Product status",
+    "values": ["Production"]
+  }, {
+    "name": "number of diodes",
+    "values": ["2"]
+  }, {
+    "name": "IF(AV) [max]",
+    "values": ["10", "15", "20"]
+  }, {
+    "name": "IO(AV) [max]",
+    "values": ["20", "30", "40"]
+  }, {
+    "name": "Tj [max]",
+    "values": ["150"]
+  }, {
+    "name": "VRRM [max]",
+    "values": ["100"]
+  }, {
+    "name": "IR [max] @ Tj = 25 °C",
+    "values": ["50"]
+  }, {
+    "name": "VF [max] @ IF = 10 A; Tj = 25 °C",
+    "values": ["0.75", "0.95", "0.63", "0.59"]
+  }, {
+    "name": "Order Sample",
+    "values": ["order-sample.aspx?typenumber=WNS20H100C", "order-sample.aspx?typenumber=WNS20H100CB", "order-sample.aspx?typenumber=WNS20S100C", "order-sample.aspx?typenumber=WNS20S100CB", "order-sample.aspx?typenumber=WNS30H100C", "order-sample.aspx?typenumber=WNS30H100CB", "order-sample.aspx?typenumber=WNS40H100C", "order-sample.aspx?typenumber=WNS40H100CB"]
+  }, {
+    "name": "Datasheet",
+    "values": ["/ween/sites/default/files/page/WNS20H100C.pdf", "/ween/sites/default/files/page/WNS20H100CB.pdf", "/ween/sites/default/files/page/WNS20S100C.pdf", "/ween/sites/default/files/page/WNS20S100CB.pdf", "/ween/sites/default/files/page/WNS30H100C.pdf", "/ween/sites/default/files/page/WNS30H100CB.pdf", "/ween/sites/default/files/page/WNS40H100C.pdf", "/ween/sites/default/files/page/WNS40H100CB.pdf"]
+  }]
+}

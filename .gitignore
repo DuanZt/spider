@@ -1,1 +1,5 @@
 spider/node_modules
+json/products/*
+!json/products/.gitkeep
+json/tables/*
+!json/tables/.gitkeep

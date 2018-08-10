@@ -12,6 +12,7 @@
     "cheerio": "^1.0.0-rc.2",
     "crawler": "^1.1.4",
     "fs-extra": "^7.0.0",
+    "mt-files-downloader": "^0.2.5",
     "phantom": "^6.0.3",
     "phantom-pool": "^1.2.2"
   }

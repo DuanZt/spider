@@ -1,1 +1,37 @@
-[{"name":"Power diodes (hyperfast recovery)","href":"http://www.ween-semi.com/productcategory.aspx?c=71101"},{"name":"Power diodes (ultrafast recovery)","href":"http://www.ween-semi.com/productcategory.aspx?c=17079"},{"name":"Power Schottky diodes","href":"http://www.ween-semi.com/productcategory.aspx?c=71734"},{"name":"Silicon Carbide diodes","href":"http://www.ween-semi.com/productcategory.aspx?c=71820"},{"name":"Standard power diode","href":"http://www.ween-semi.com/productcategory.aspx?c=standard_power_diode"},{"name":"3-Quadrant Triacs (High Commutation)","href":"http://www.ween-semi.com/productcategory.aspx?c=26441"},{"name":"4-Quadrant Triacs","href":"http://www.ween-semi.com/productcategory.aspx?c=26536"},{"name":"AC Thyristor Triacs","href":"http://www.ween-semi.com/productcategory.aspx?c=71677"},{"name":"AC Thyristors","href":"http://www.ween-semi.com/productcategory.aspx?c=71235"},{"name":"SCRs","href":"http://www.ween-semi.com/productcategory.aspx?c=26898"},{"name":"Temperature and Overload Protected Triacs","href":"http://www.ween-semi.com/productcategory.aspx?c=71773"},{"name":"High voltage bipolar transistors for lighting, SMPS and industrial applications","href":"http://www.ween-semi.com/productcategory.aspx?c=15107"}]
+[{
+  "name": "Power diodes (hyperfast recovery)",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=71101"
+}, {
+  "name": "Power diodes (ultrafast recovery)",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=17079"
+}, {
+  "name": "Power Schottky diodes",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=71734"
+}, {
+  "name": "Silicon Carbide diodes",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=71820"
+}, {
+  "name": "Standard power diode",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=standard_power_diode"
+}, {
+  "name": "3-Quadrant Triacs (High Commutation)",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=26441"
+}, {
+  "name": "4-Quadrant Triacs",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=26536"
+}, {
+  "name": "AC Thyristor Triacs",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=71677"
+}, {
+  "name": "AC Thyristors",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=71235"
+}, {
+  "name": "SCRs",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=26898"
+}, {
+  "name": "Temperature and Overload Protected Triacs",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=71773"
+}, {
+  "name": "High voltage bipolar transistors for lighting, SMPS and industrial applications",
+  "href": "http://www.ween-semi.com/productcategory.aspx?c=15107"
+}]
